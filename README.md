@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Levi Njoroge Jr.</h1>
-<h3 align="center">A passionate multi-versated developer handling full stack web development, AI, Data Science, ... conversant in C++, C#, C, Java, Php(Laravel), Python(Django, Flask, and others), Shell scripts(bash, fish, powershell), Algorithms dev e.t.c</h3>
+<h3 align="center">
+  A passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects. 
+  Proficient in C, Java, SQL and JavaScript, with a strong foundation in algorithms and problem-solving. 
+  Enthusiastic about exploring new tools and learning deeper topics in OS development and technology integration.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeviNjoroge&label=Profile%20views&color=0e75b6&style=flat&include_all_commits=true&count_private=true" alt="LeviNjoroge" /> </p>
 
@@ -29,9 +34,9 @@
 
 - ⚡ Fun fact: **I'm a tech enthusiast and a passionate developer with a knack for innovation and problem-solving.**
 
-
+<!--
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
