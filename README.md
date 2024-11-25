@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm MORGAN OKUMU</h1>
+<h1 align="center">Hi 👋, I'm Levi Njoroge Jr.</h1>
 <h3 align="center">A passionate multi-versated developer handling full stack web development, AI, Data Science, ... conversant in C++, C#, C, Java, Php(Laravel), Python(Django, Flask, and others), Shell scripts(bash, fish, powershell), Algorithms dev e.t.c</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeviNjoroge&label=Profile%20views&color=0e75b6&style=flat&include_all_commits=true&count_private=true" alt="LeviNjoroge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?&include_all_commits=true&count_private=true"><img src="https://github-profile-trophy.vercel.app/?username=LeviNjoroge&include_all_commits=true&count_private=true" alt="LeviNjoroge" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/okumu_morgan" target="blank"><img src="https://img.shields.io/twitter/follow/okumu_morgan?logo=twitter&style=for-the-badge" alt="okumu_morgan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LeviNjorogeJr" target="blank"><img src="https://img.shields.io/twitter/follow/LeviNjorogeJr?logo=twitter&style=for-the-badge" alt="LeviNjorogeJr" /></a> </p>
 
 - 🔭 I’m currently working on [ven_lang development, e-Commerce System, Management Systems, POS, Linux Packages, Desktop Application, Full Stack Development](...)
 
@@ -34,11 +34,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/LeviNjoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="LeviNjoroge" height="30" width="40" /></a>
-<a href="https://twitter.com/okumu_morgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okumu_morgan" height="30" width="40" /></a>
+<a href="https://twitter.com/LeviNjorogeJr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LeviNjorogeJr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/morgan okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morgan okumu" height="30" width="40" /></a>
 <a href="https://kaggle.com/morgan okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="morgan okumu" height="30" width="40" /></a>
 <a href="https://fb.com/morgan okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morgan okumu" height="30" width="40" /></a>
-<a href="https://instagram.com/okumu_morgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okumu_morgan" height="30" width="40" /></a>
+<a href="https://instagram.com/LeviNjorogeJr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LeviNjorogeJr" height="30" width="40" /></a>
 <a href="https://medium.com/@cyb37 v3n0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb37 v3n0m" height="30" width="40" /></a>
 </p>
 
