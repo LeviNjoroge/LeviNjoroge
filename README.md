@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Levi Njoroge Jr.</h1>
 <h3 align="center">
-  A passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects. 
-  Proficient in C, Java, SQL and JavaScript, with a strong foundation in algorithms and problem-solving. 
+  A Software Engineering student. <br>
+  I am a passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects on the Blockchain/Web3. <br>
+  Proficient in C, Java, SQL and JavaScript, with a strong foundation in algorithms and problem-solving. <br>
   Enthusiastic about exploring new tools and learning deeper topics in OS development and technology integration.
 </h3>
 
@@ -14,13 +15,13 @@
 
 
 
-- 🔭 I’m currently working on [hotel website development, anti-corruption learning platforms, and hackathon projects like AI helmet detection systems](...).
+- 🔭 I’m currently working on [advancing my skills](...).
 
 - 🌱 I’m currently learning **JavaScript and TypeScript**.
 
-- 👯 I’m looking to collaborate on [AI-driven solutions, innovative hackathon projects, and impactful anti-corruption platforms](...).
+- 👯 I’m looking to collaborate on [AI-driven solutions, innovative hackathon projects, and impactful Blockchain driven projects](...).
 
-- 🤝 I’m looking for help with [integrating offline code editors into apps and implementing robust health-tracking software](...).
+<!-- - 🤝 I’m looking for help with [integrating offline code editors into apps and implementing robust health-tracking software](...).-->
 
 - 👨‍💻 All of my projects are available at SoloLearn @ LeviNjorogeJr and GitHub @ LeviNjoroge.
 
@@ -32,7 +33,7 @@
 
 <!--- 📄 Know about my experiences: (...).-->
 
-- ⚡ Fun fact: **I'm a tech enthusiast and a passionate developer with a knack for innovation and problem-solving.**
+- ⚡ Fun fact: **I'm such a fun of video games and general mind games, you can't beat me, bet.**
 
 <!--
 ### Blogs posts
