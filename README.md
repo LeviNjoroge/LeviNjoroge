@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Levi Njoroge Jr.</h1>
+<h1 align="center">Levi Njoroge Jr. here...</h1>
 <h3 align="center">
-  As a Software Engineer, I am a passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects on the Blockchain/Web3. <br>
+  I'm a Software Engineer; a passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects on the Blockchain/Web3. <br>
   Proficient in C, Java, SQL and NoSQL databases, PHP and JavaScript, with a strong foundation in algorithms and problem-solving. <br>
   Enthusiastic about exploring new tools and learning.
 </h3>
