@@ -1,9 +1,3 @@
-<h1 align="center">Levi Njoroge Jr. here...</h1>
-<h3 align="center">
-  I'm a Software Engineer; a passionate and adaptable developer focused on building impactful solutions through full-stack web development, AI-driven systems, and innovative projects on the Blockchain/Web3. <br>
-  Proficient in C, Java, SQL and NoSQL databases, PHP and JavaScript, with a strong foundation in algorithms and problem-solving. <br>
-  Enthusiastic about exploring new tools and learning.
-</h3>
 # 💫 About Me:
 🔭 Currently Working On: Blockchain/Web3 & AI/ML projects<br>👯 Open to Collaborations: Always excited to team up on innovative ideas<br>🌱 Learning Journey: Diving deeper into Blockchain technologies and Artificial Intelligence<br>💬 Ask Me About: Anything related to my specializations—happy to share what I know<br>⚡ Fun Fact: I play chess and video games... and yes, I will beat you at both 😎
 
@@ -19,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviNjoroge&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeviNjoroge&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LeviNjoroge&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
