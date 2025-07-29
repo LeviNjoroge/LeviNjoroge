@@ -4,55 +4,30 @@
   Proficient in C, Java, SQL and NoSQL databases, PHP and JavaScript, with a strong foundation in algorithms and problem-solving. <br>
   Enthusiastic about exploring new tools and learning.
 </h3>
+# 💫 About Me:
+🔭 Currently Working On: Blockchain/Web3 & AI/ML projects<br>👯 Open to Collaborations: Always excited to team up on innovative ideas<br>🌱 Learning Journey: Diving deeper into Blockchain technologies and Artificial Intelligence<br>💬 Ask Me About: Anything related to my specializations—happy to share what I know<br>⚡ Fun Fact: I play chess and video games... and yes, I will beat you at both 😎
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeviNjoroge&label=Profile%20views&color=0e75b6&style=flat&include_all_commits=true&count_private=true" alt="LeviNjoroge" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@levijr2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jr.levinjoroge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/levinjorogejr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/levinjorogejr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:levinjorogej@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?&include_all_commits=true&count_private=true"><img src="https://github-profile-trophy.vercel.app/?username=LeviNjoroge&include_all_commits=true&count_private=true" alt="LeviNjoroge" /></a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LeviNjoroge&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LeviNjoroge&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviNjoroge&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/LeviNjorogeJr" target="blank"><img src="https://img.shields.io/twitter/follow/LeviNjorogeJr?logo=twitter&style=for-the-badge" alt="LeviNjorogeJr" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LeviNjoroge&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LeviNjoroge&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on [advancing my skills](...).
+---
+[![](https://visitcount.itsvg.in/api?id=LeviNjoroge&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning **JavaScript and TypeScript**.
-
-- 👯 I’m looking to collaborate on [AI-driven solutions, innovative hackathon projects, and impactful Blockchain driven projects](...).
-
-<!-- - 🤝 I’m looking for help with [integrating offline code editors into apps and implementing robust health-tracking software](...).-->
-
-- 👨‍💻 All of my projects are available at SoloLearn @ LeviNjorogeJr and GitHub @ LeviNjoroge.
-
-- 📝 I regularly write articles on [ethical tech development and youth-driven innovation](...).
-
-- 💬 Ask me about **AI, JavaScript, ethical tech, hackathon strategies, or innovative project ideas**.
-
-- 📫 How to reach me: **[levynjoroge1@gmail.com]**.
-
-<!--- 📄 Know about my experiences: (...).-->
-
-- ⚡ Fun fact: **I'm such a fun of video games and general mind games, you can't beat me, bet.**
-
-<!--
-### Blogs posts
- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://codepen.io/LeviNjoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="LeviNjoroge" height="30" width="40" /></a> -->
-<a href="https://twitter.com/LeviNjorogeJr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LeviNjorogeJr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/levi-njoroge-jr-722295189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levi-njoroge-jr" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/morgan okumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="morgan okumu" height="30" width="40" /></a> -->
-<!-- <a href="https://fb.com/levynjoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morgan okumu" height="30" width="40" /></a> -->
-<a href="https://instagram.com/jr.levinjoroge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LeviNjorogeJr" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@cyb37 v3n0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyb37 v3n0m" height="30" width="40" /></a>
-</p> --> <br> <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeviNjoroge&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="LeviNjoroge" /></p> <br>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviNjoroge&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="LeviNjoroge" /></p> <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LeviNjoroge&include_all_commits=true&count_private=true" alt="LeviNjoroge" /></p> <br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
